@@ -7,7 +7,9 @@
         {{content}}
     </section>
     <footer class="post-meta">
-        <time class="post-date" datetime="{{date format='YYYY-MM-DD'}}">Posted {{date format="DD MMMM YYYY"}}</time>
+        <a href="{{url}}">
+            <time class="post-date" datetime="{{date format='YYYY-MM-DD'}}">Posted {{date format="DD MMMM YYYY"}}</time>
+        </a>
     </footer>
 </article>
 {{/foreach}}
