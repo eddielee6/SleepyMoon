@@ -717,7 +717,7 @@ body.nav-opened .nav {
     display: block;
     position: absolute;
     z-index: 100;
-    bottom: 45px;
+    bottom: 10px;
     left: 50%;
     margin-left: -16px;
     width: 34px;
