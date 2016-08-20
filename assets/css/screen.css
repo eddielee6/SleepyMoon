@@ -1432,9 +1432,8 @@ body:not(.post-template) .post-title {
 }
 
 .page-number {
-    display: inline-block;
+    display: block;
     padding: 2px 0;
-    min-width: 100px;
 }
 
 .newer-posts {
