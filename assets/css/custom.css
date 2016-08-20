@@ -102,15 +102,7 @@
     border-color: white;
     color: white;
 }
-.menu ul li.nav-current a {
-    border-color: white;
-    color: white;
-}
 .no-cover .menu ul li a:hover {
-    color: black;
-    border-color: black;
-}
-.no-cover .menu ul li.nav-current a {
     color: black;
     border-color: black;
 }
