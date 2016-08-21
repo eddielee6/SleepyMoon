@@ -58,8 +58,8 @@
 /* Add a border to the buttons on hover */
 
 .back-button:hover, .subscribe-button:hover {
-    border-color: rgba(0, 0, 0, 0.8);
-    color: rgb(0, 0, 0) !important;
+    border-color: rgba(102, 102, 102, 0.5);
+    color: #666 !important;
 }
 .post-footer .author {
     text-align: center;
